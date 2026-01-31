@@ -87,7 +87,7 @@ This app uses the [Truth or Dare Bot API](https://docs.truthordarebot.xyz/api-do
 ### Endpoints:
 - `GET /v1/truth?rating={pg|pg13|r}` - Get a truth question
 - `GET /v1/dare?rating={pg|pg13|r}` - Get a dare challenge
-- `GET /v1/random?rating={pg|pg13|r}` - Get random truth or dare
+- `GET /v1/random?rating={pg|pg13|r}` - Get wyr truth or dare
 
 ### Rate Limiting:
 - The app monitors `X-RateLimit-Remaining` and `X-RateLimit-Reset` headers
