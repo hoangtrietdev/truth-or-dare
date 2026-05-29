@@ -1,7 +1,7 @@
 {
   "name": "Truth or Dare",
   "short_name": "T or D",
-  "description": "A futuristic Truth or Dare game with Boyplaydn aesthetics",
+  "description": "A futuristic Truth or Dare game with hoangtrietdev aesthetics",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#020617",

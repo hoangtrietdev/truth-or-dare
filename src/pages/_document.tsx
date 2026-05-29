@@ -9,7 +9,7 @@ export default function Document() {
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
         <meta name="apple-mobile-web-app-title" content="Truth or Dare" />
-        <meta name="description" content="A futuristic Truth or Dare game with Boyplaydn aesthetics" />
+        <meta name="description" content="A futuristic Truth or Dare game with hoangtrietdev aesthetics" />
         <meta name="format-detection" content="telephone=no" />
         <meta name="mobile-web-app-capable" content="yes" />
         <meta name="theme-color" content="#06B6D4" />
@@ -38,7 +38,7 @@ export default function Document() {
 
         {/* Open Graph */}
         <meta property="og:type" content="website" />
-        <meta property="og:title" content="Truth or Dare - Boyplaydn Edition" />
+        <meta property="og:title" content="Truth or Dare - hoangtrietdev Edition" />
         <meta property="og:description" content="A futuristic Truth or Dare game" />
         <meta property="og:site_name" content="Truth or Dare" />
 

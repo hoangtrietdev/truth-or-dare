@@ -2,6 +2,7 @@ import '@/styles/globals.css'
 import type { AppProps } from 'next/app'
 import { Toaster } from 'react-hot-toast'
 import { AnimatePresence } from 'framer-motion'
+import CookieConsentBanner from '@/components/legal/CookieConsentBanner'
 
 export default function App({ Component, pageProps, router }: AppProps) {
   return (
@@ -10,7 +11,7 @@ export default function App({ Component, pageProps, router }: AppProps) {
         <Component {...pageProps} key={router.route} />
       </AnimatePresence>
       
-      {/* Toast Notifications with Boyplaydn Theme */}
+      {/* Toast Notifications with hoangtrietdev Theme */}
       <Toaster
         position="top-center"
         reverseOrder={false}
@@ -46,6 +47,8 @@ export default function App({ Component, pageProps, router }: AppProps) {
           },
         }}
       />
+
+      <CookieConsentBanner />
     </>
   )
 }

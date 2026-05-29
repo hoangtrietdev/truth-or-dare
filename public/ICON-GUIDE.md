@@ -21,7 +21,7 @@ You need to create the following icon files for your PWA:
 
 ### Option 2: Use Figma/Canva
 1. Create a 512×512 px artboard
-2. Design your icon with the Boyplaydn theme
+2. Design your icon with the hoangtrietdev theme
 3. Export as PNG at different sizes
 4. Convert one to ICO format using an online converter
 
@@ -40,11 +40,11 @@ convert icon-master.png -resize 32x32 public/favicon.ico
 
 ## Design Tips
 
-- Use the Boyplaydn color palette (Cyan #06B6D4, Purple #8B5CF6, Pink #EC4899)
+- Use the hoangtrietdev color palette (Cyan #06B6D4, Purple #8B5CF6, Pink #EC4899)
 - Keep the design simple and recognizable at small sizes
 - Use high contrast for visibility
 - Consider using "T/D" or a dice icon as the main element
-- Add a subtle glow effect for the Boyplaydn aesthetic
+- Add a subtle glow effect for the hoangtrietdev aesthetic
 
 ## Temporary Placeholder
 

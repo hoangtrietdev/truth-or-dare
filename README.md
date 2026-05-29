@@ -1,6 +1,6 @@
-# 🎮 Truth or Dare - Boyplaydn Edition
+# 🎮 Truth or Dare - hoangtrietdev Edition
 
-A high-performance Progressive Web App (PWA) built with Next.js, TypeScript, Tailwind CSS, and Framer Motion. Features a futuristic Boyplaydn aesthetic with glassmorphism effects.
+A high-performance Progressive Web App (PWA) built with Next.js, TypeScript, Tailwind CSS, and Framer Motion. Features a futuristic hoangtrietdev aesthetic with glassmorphism effects.
 
 ## ✨ Features
 
@@ -8,7 +8,7 @@ A high-performance Progressive Web App (PWA) built with Next.js, TypeScript, Tai
 - 🔞 **18+ Mode Toggle**: Switch between PG, PG-13, and R-rated content
 - 🚀 **PWA Support**: Install as a native app on mobile devices
 - ⚡ **Rate Limit Handling**: Smart API rate limit detection and user notifications
-- 🎨 **Boyplaydn UI**: Dark theme with neon accents and glassmorphism
+- 🎨 **hoangtrietdev UI**: Dark theme with neon accents and glassmorphism
 - 🌊 **Smooth Animations**: Powered by Framer Motion
 - 📱 **Fully Responsive**: Optimized for mobile, tablet, and desktop
 
@@ -98,7 +98,7 @@ This app uses the [Truth or Dare Bot API](https://docs.truthordarebot.xyz/api-do
 ## 🎨 Customization
 
 ### Colors
-Edit `tailwind.config.js` to change the Boyplaydn color scheme:
+Edit `tailwind.config.js` to change the hoangtrietdev color scheme:
 ```js
 colors: {
   cyber: {
@@ -152,4 +152,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-**Made with 💜 by Boyplaydn**
+**Made with 💜 by hoangtrietdev**

@@ -2,7 +2,7 @@
 
 ## 📋 Project Summary
 
-A production-ready Progressive Web App built as a futuristic Truth or Dare game with Boyplaydn aesthetics. Built with Next.js 14 (Pages Router), TypeScript, Tailwind CSS, and Framer Motion.
+A production-ready Progressive Web App built as a futuristic Truth or Dare game with hoangtrietdev aesthetics. Built with Next.js 14 (Pages Router), TypeScript, Tailwind CSS, and Framer Motion.
 
 ## 🏗️ Architecture
 
@@ -82,7 +82,7 @@ truth-dare-app/
 - **Optimized**: Fast loading and smooth performance
 
 ### 5. UI/UX Design
-- **Theme**: Dark Boyplaydn with glassmorphism
+- **Theme**: Dark hoangtrietdev with glassmorphism
 - **Colors**: Cyan (#06B6D4), Purple (#8B5CF6), Pink (#EC4899)
 - **Typography**: Inter (body) + Orbitron (headings)
 - **Animations**: 

@@ -65,7 +65,7 @@ npm start
 - ✅ **PWA Ready**: Install as native app
 - ✅ **Responsive**: Mobile-first design
 - ✅ **Animated**: Smooth Framer Motion effects
-- ✅ **Boyplaydn Theme**: Neon + Glassmorphism
+- ✅ **hoangtrietdev Theme**: Neon + Glassmorphism
 
 ## 🛠️ Tech Stack
 

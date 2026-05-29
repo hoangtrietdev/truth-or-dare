@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import Head from 'next/head';
+import Link from 'next/link';
 import { motion, AnimatePresence } from 'framer-motion';
 import { truthOrDareAPI } from '@/lib/axios';
 
@@ -55,7 +56,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Truth or Dare - Boyplaydn Edition</title>
+        <title>Truth or Dare - hoangtrietdev Edition</title>
         <meta name="description" content="A futuristic Truth or Dare game" />
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
       </Head>
@@ -80,7 +81,7 @@ export default function Home() {
               TRUTH OR DARE
             </h1>
             <p className="text-cyber-cyan/70 text-sm md:text-base font-medium tracking-wider">
-              Boyplaydn Edition - V1.0
+              hoangtrietdev Edition - V1.0
             </p>
           </motion.div>
 
@@ -232,7 +233,18 @@ export default function Home() {
             className="mt-8 text-center text-white/40 text-sm"
           >
             <p>Powered by Truth or Dare Bot API</p>
-            <p className="mt-1">Made with 💜 by Boyplaydn</p>
+            <p className="mt-1">Made with 💜 by hoangtrietdev</p>
+            <div className="mt-3 flex flex-wrap items-center justify-center gap-4 text-xs md:text-sm">
+              <Link href="/privacy-policy" className="text-cyber-cyan hover:text-cyber-pink">
+                Privacy Policy
+              </Link>
+              <Link href="/terms-of-service" className="text-cyber-cyan hover:text-cyber-pink">
+                Terms of Service
+              </Link>
+              <Link href="/cookie-policy-eu" className="text-cyber-cyan hover:text-cyber-pink">
+                Cookie Policy (EU)
+              </Link>
+            </div>
           </motion.div>
         </div>
       </div>
